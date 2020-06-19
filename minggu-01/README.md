@@ -1,3 +1,3 @@
-# Praktikum Minggu-08
+# Praktikum Minggu-01
 
-[1. Pembahasan gambar pertemuang Minggu-08](penjelasan.md)
+[1. Pembahasan gambar pertemuang Minggu-01](penjelasan.md)
